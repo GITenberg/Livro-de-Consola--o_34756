@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34756#Livro-de-Consola--o
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2010-12-27'
 gutenberg_type: Text
